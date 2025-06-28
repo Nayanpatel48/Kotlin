@@ -1,3 +1,19 @@
+## High Priority
+
+### What is dataclass?
+*In kotlin data class is a specific type of class designed to **hold data.***
+
+### What are coroutines?
+*In kotlin, coroutines are concurrency design patterns, they are used to write asynchronous code in
+sequential, easy to read format.*
+
+### What are scope functions?
+*In kotlin, cope functions are set of higher order functions (let, run, with, apply, and also) , in standard 
+library that provides convenient way to execute block of code withing context of an object.*
+
+### 
+
+
 ---
 
 Excellent — let’s break this down seriously and practically.
