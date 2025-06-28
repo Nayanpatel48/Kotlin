@@ -1,15 +1,3 @@
-## High Priority
-
-### What is null safety?
-*It is a good feature of kotlin for avoiding common exception in java that is null pointer exception, which
-many times leads to program crash.*
-
-### What is Elvis operator (?:)
-*The Elvis operator provides a default value when a nullable expression evaluates to null*
-
-### What is safe call operator (?.)
-**
-
 ---
 
 Excellent — let’s break this down seriously and practically.
@@ -32,7 +20,7 @@ You asked **which Kotlin language fundamentals you must master to build a fully 
 | **Control Flow** (`if`, `when`, `for`, `while`)                                  | Core of app logic.                                                           |
 | **Classes & Objects**                                                            | OOP structure for models, screens, services.                                 |
 | **Data Classes**                                                                 | Used heavily for APIs, state management, storage.                            |
-| **Collections** (Lists, Sets, Maps + operations like `map`, `filter`, `forEach`) | Essential for managing app data, options, state.                             |
+| **collection** (Lists, Sets, Maps + operations like `map`, `filter`, `forEach`) | Essential for managing app data, options, state.                             |
 | **Functions & Lambdas**                                                          | Functional style is Kotlin’s strength.                                       |
 | **Coroutines (Basics)** — `launch`, `async`, `suspend`, `withContext`            | Async tasks: network calls, database ops. No modern Kotlin app without this. |
 | **Scope Functions** (`let`, `also`, `apply`, `run`, `with`)                      | Clean, idiomatic code. Saves you from nested null checks and clutter.        |
